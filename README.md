@@ -11,10 +11,6 @@ Once you've downloaded the repository and extracted it into a folder, open up th
 ## Quick presentation slides
 The following presentation is a summary of the main features. For a detailed explanations of the realisation of all aspects of the game, please read the file **report.pdf**.
 
-<p align="center">
- <img width="auto" alt="SOLRGif" src="">
-</p>
-
 ## Aesthetics and immersion design
 
 This is a simple vr experience coded to learn the innerworkings of the unity gui and engine. All the movements and interactions are coded from scratch. This expereince has a checker coded that looks to see if a VR headset is plugged in. If a headset is plugged in, the experience will run in VR, should the user not have a headset the program then swithes to a computer based input sytesm (mouse and keyboard). The switcher program, user movement and interactions and enviornmeent interaction were all coded from scratch. The c# files are viewable in the root directory and asset folders.
@@ -30,9 +26,9 @@ C#, Unity Engine, Oculus Framework, XR Interaction Toolkit. Game design and deve
 
 ## 🔗 Links
 
-LinkedIn [linkedin](https://www.linkedin.com/in/aaronclamp/)
-Portfolio [Portfolio](https://aaronclamp.netlify.app/)
-Github [Github](https://github.com/ronaldconn/)
+[LinkedIn](https://www.linkedin.com/in/aaronclamp/)
+[Portfolio](https://aaronclamp.netlify.app/)
+[Github](https://github.com/ronaldconn/)
  
 # Lessons Learned
 
