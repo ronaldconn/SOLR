@@ -1,7 +1,7 @@
 # SOLR
 unity based game
 
-![gif of app in action](
+![gif of app in action]
 
 
 SOLR vr experience, takes you into an...
@@ -11,7 +11,6 @@ SOLR vr experience, takes you into an...
 
 ## How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2020.3.32f1**, we suggest you to download this version because different ones (especially older) might give problems.
-
 
 Once you've downloaded the repository and extracted it into a folder, open up the folder SOLR using the Unity Hub. If the version of the Unity Editor you're using to open the project is the correct one, no error should appear.
 
@@ -24,9 +23,6 @@ The following presentation is a summary of the main features. For a detailed exp
 
 ## Aesthetics and immersion design
 
-
-
-## Play testing and feedbacks
 
 
 
