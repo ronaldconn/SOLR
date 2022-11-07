@@ -7,7 +7,6 @@ unity based game
 SOLR vr experience, takes you into an...
 
 
-https://user-images.githubusercontent.com/62103572/183925619-1bf638b2-4384-43f7-94e9-44aaac373e29.mp4
 
 
 ## How to open up the project on Unity Editor
