@@ -21,6 +21,12 @@ In addition to world navigation, I coded [player](https://github.com/ronaldconn/
 
 Once all the panels face the sun, the game is won! A jumotron like textmesh displays the results.
 
+## Screenshots
+![SOLR](https://user-images.githubusercontent.com/97855104/200464133-47ddb4ae-0f3e-4ba8-a8dd-c2e1c432d812.png)
+
+![SOLR2](https://user-images.githubusercontent.com/97855104/200464139-8bb61c52-1bab-4e0d-bd9b-d6d5837105d5.png)
+
+![SOLR3](https://user-images.githubusercontent.com/97855104/200464145-3d46164f-1ff2-4fed-9c10-15261e0431ca.png)
 
 ## 🛠 Skills
 
