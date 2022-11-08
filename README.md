@@ -1,12 +1,15 @@
 # SOLR
-Unity Based VR Experience
 
-https://user-images.githubusercontent.com/97855104/200410947-8bbbfe7f-0bf0-4422-ac47-7e81d509a15b.mp4
+![cover](https://user-images.githubusercontent.com/97855104/200453500-dd0e0823-1e27-4056-b28b-3d75d033d9a0.png)
+
+**Unity Based VR Experience**
 
 ## How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2020.3.32f1**, I suggest you to download this version because different ones (especially older) might give problems.
 
 Once you've downloaded the repository and extracted it into a folder, open up the folder SOLR using the Unity Hub. If the version of the Unity Editor you're using to open the project is the correct one, no error should appear.
+
+https://user-images.githubusercontent.com/97855104/200410947-8bbbfe7f-0bf0-4422-ac47-7e81d509a15b.mp4
 
 ## Aesthetics and immersion design
 
